@@ -1,0 +1,3 @@
+servers = ["server-a"]
+groups = [{label = "ha-group-a", members = ["member-1"]}]
+custom = {}
